@@ -1,0 +1,9 @@
+# Hiyo55 AI Lab auto-generated
+.DS_Store
+.obsidian/
+.trash/
+node_modules/
+*.tmp
+*.log
+.cache/
+Thumbs.db
